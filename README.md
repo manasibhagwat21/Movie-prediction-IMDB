@@ -6,7 +6,7 @@ Skilled in data preprocessing, feature engineering, and model evaluation techniq
 Performed data preprocessing by dropping null values, dealing with missing data.
 Performed feature engineering by selecting only relevant roles for prediction model.
 
-# Result
+## Result
 
 | Model                  	| Accuracy 	| Mean aboslute error 	|
 |------------------------	|----------	|---------------------	|
@@ -16,4 +16,3 @@ Performed feature engineering by selecting only relevant roles for prediction mo
 | Decision Tree          	| 87.2     	| 0.73                	|
 | Neural Network         	| 84.83    	| 0.83                	|
 
-### Since random forest and Xg boost performance is similar and according to theory Xg boost performace should be better than random forest because of boasting apporach. XG Boost will be better model for deployment in production.
